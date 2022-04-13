@@ -1,0 +1,11 @@
+{
+  "hosting": {
+    "target":"QuizLab",
+    "public": "build/web",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ]
+  }
+}

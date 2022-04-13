@@ -1,0 +1,14 @@
+{
+  "projects": {
+    "default": "quizapp-a9367"
+  },
+  "targets": {
+    "quizapp-a9367": {
+      "hosting": {
+        "QuizLab": [
+          "quizapp-a9367"
+        ]
+      }
+    }
+  }
+}
